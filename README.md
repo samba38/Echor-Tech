@@ -22,6 +22,6 @@ The API takes sentence as input and returns the word_count, unique_words, and th
 
 # Files
 .index.js
-  > This is main file for running server 
+   This is main file for running server 
 .app.http
- > This is used for testing
+  This is used for testing 
