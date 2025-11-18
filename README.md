@@ -21,7 +21,8 @@ The API takes sentence as input and returns the word_count, unique_words, and th
  server runs on : http://localhost:3000
 
 # Files
-.index.js
+=>index.js
    This is main file for running server 
-.app.http
+
+=>app.http
   This is used for testing 
